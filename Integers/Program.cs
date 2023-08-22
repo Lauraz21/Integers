@@ -1,4 +1,4 @@
-﻿Console.WriteLine("========BUSINESS CARD=========");
+﻿Console.WriteLine("========BUSINESS CARD========");
 string name = "Vardenis Pavardenis";
 int age = 28;
 string responsibilities = "Software Developer";
@@ -9,4 +9,4 @@ Console.WriteLine("Age: " + age);
 Console.WriteLine("Responsibilities: " + responsibilities);
 Console.WriteLine("Email: "+ email);
 Console.WriteLine("Number: "+  number);
-Console.WriteLine("==============================");
+Console.WriteLine("=============================");
