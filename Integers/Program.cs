@@ -1,0 +1,12 @@
+﻿Console.WriteLine("========BUSINESS CARD=========");
+string name = "Vardenis Pavardenis";
+int age = 28;
+string responsibilities = "Software Developer";
+string email = "johndoe@example.com";
+string number = "+1 123-456-7890";
+Console.WriteLine("Name: " + name );
+Console.WriteLine("Age: " + age);
+Console.WriteLine("Responsibilities: " + responsibilities);
+Console.WriteLine("Email: "+ email);
+Console.WriteLine("Number: "+  number);
+Console.WriteLine("==============================");
